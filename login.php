@@ -1,5 +1,3 @@
-<html>
-<body>
 <?php
 	session_start();
 	require_once("dbconnect.php");
@@ -55,7 +53,8 @@
 	}
 ?>
 
-<img src="audio_video/dog_picture.png" alt="Doggo" width="400" height="400">;
-</body>
-
+<html>
+	<body>
+		<img src="audio_video/dog_picture.png" alt="Doggo" width="400" height="400">;
+	</body>
 </html>
